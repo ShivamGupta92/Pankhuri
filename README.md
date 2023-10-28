@@ -2,7 +2,7 @@
 ![logo2](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/91927916-a3be-4858-b79c-76ef8e34b4f8)
 
 
-# Pankhuri: Empowering Every Woman's Journey
+# Pankhuri: Your Issue-Resolving Ally​
 
 Embark on a transformative journey with Pankhuri, a platform meticulously crafted to address the intricate nuances of women's health. By harnessing the power of cutting-edge AI, we're redefining the way women connect, learn, and take charge of their well-being.
 
