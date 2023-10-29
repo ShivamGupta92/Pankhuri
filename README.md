@@ -4,6 +4,8 @@
   <img src="https://github.com/ShivamGupta92/Pankhuri/assets/101616959/91927916-a3be-4858-b79c-76ef8e34b4f8" alt="Sublime's custom image"/>
 </p>
 
+## FUgma Prototype
+https://www.figma.com/proto/449tnqfXFEQpUi3wyW6biV/Pankhuri?type=design&node-id=1-2&t=pVxoQOHgeKlMiDDc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design
 
 # Pankhuri: Your one-stop partner for women's health
 
