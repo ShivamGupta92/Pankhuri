@@ -18,6 +18,7 @@ Embark on a transformative journey with Pankhuri, a platform meticulously crafte
 
 ## 🌸 Introduction
 In today's fast-paced world, women face unique health challenges. While technology has been a beacon in various domains, women's health often remains in the shadows. Pankhuri emerges as a beacon, shedding light on these areas with the brilliance of AI. We believe that every woman deserves personalized insights, empowering education, and a supportive community.
+[![IMAGE_ALT_TEXT](http://img.youtube.com/vi/ECge-hM3Vb4/0.jpg)](http://www.youtube.com/watch?v=ECge-hM3Vb4)
 
 ## 🌼 The Challenge We Address
 Women's health is a tapestry of complexity. Many platforms touch upon it but fail to encapsulate its depth and breadth. We identified gaps:
