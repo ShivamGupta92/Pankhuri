@@ -1,12 +1,19 @@
 # Pankhuri
-![logo2](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/91927916-a3be-4858-b79c-76ef8e34b4f8)
+
+<p align="center">
+  <img src="https://github.com/ShivamGupta92/Pankhuri/assets/101616959/91927916-a3be-4858-b79c-76ef8e34b4f8" alt="Sublime's custom image"/>
+</p>
 
 
 # Pankhuri: Your Issue-Resolving Ally​
 
 Embark on a transformative journey with Pankhuri, a platform meticulously crafted to address the intricate nuances of women's health. By harnessing the power of cutting-edge AI, we're redefining the way women connect, learn, and take charge of their well-being.
 
-![giphy](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/f41727eb-7f41-4f40-b1a0-8c8bff58860f)
+
+<p align="center">
+  <img src="https://github.com/ShivamGupta92/Pankhuri/assets/101616959/f41727eb-7f41-4f40-b1a0-8c8bff58860f" alt="animated" />
+</p>
+
 
 ## 🌸 Introduction
 In today's fast-paced world, women face unique health challenges. While technology has been a beacon in various domains, women's health often remains in the shadows. Pankhuri emerges as a beacon, shedding light on these areas with the brilliance of AI. We believe that every woman deserves personalized insights, empowering education, and a supportive community.
