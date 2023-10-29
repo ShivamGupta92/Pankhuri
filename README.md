@@ -23,6 +23,11 @@ In today's fast-paced world, women face unique health challenges. While technolo
 [![IMAGE_ALT_TEXT](http://img.youtube.com/vi/ECge-hM3Vb4/0.jpg)](http://www.youtube.com/watch?v=ECge-hM3Vb4)
 - Watch the video by directly click on the thumbnail or alternately by clicking on (https://youtu.be/ECge-hM3Vb4).
 
+## 🌼 Why are we approaching this problem?
+
+https://github.com/ShivamGupta92/Pankhuri/assets/101616959/66f5bebd-f39b-4069-ae7d-8b1581456654
+- Watch the video by directly click on the thumbnail or alternately by clicking on ([https://www.youtube.com/watch?v=rYxtIHE3fTA&t=24s](https://youtu.be/rYxtIHE3fTA?si=pr4tu5etRJkzl1Ff))
+
 ## 🌼 The Challenge We Address
 Women's health is a tapestry of complexity. Many platforms touch upon it but fail to encapsulate its depth and breadth. We identified gaps:
 - Inadequate AI utilization in predicting and preventing health issues.
