@@ -5,7 +5,7 @@
 </p>
 
 
-# Pankhuri: Your Issue-Resolving Ally​
+# Pankhuri: Your one-stop partner for women's health
 
 Embark on a transformative journey with Pankhuri, a platform meticulously crafted to address the intricate nuances of women's health. By harnessing the power of cutting-edge AI, we're redefining the way women connect, learn, and take charge of their well-being.
 
@@ -45,10 +45,25 @@ Pankhuri rises to these challenges, aspiring to be a game-changer in women's hea
 
 
 ## 🌟 Revenue Streams & USPs
-- **Premium Subscriptions**: Delve deeper with exclusive features, expert consultations, and a world of privileges.
-- **Smart Advertising**: Relevant, non-intrusive ads tailored to resonate with every user's journey.
-- **Unwavering Data Security**: A fortress of privacy with state-of-the-art encryption and security measures.
-- **Strategic Partnerships**: Collaborations that amplify our offerings and extend unmatched benefits to our users.
+- **Premium Subscriptions**: Delve deeper with exclusive features, expert consultations, and a world of privileges. Users can pay a monthly or annual subscription fee to access exclusive healthcare
+services, personalized insights and predictions, and connect with a
+community of experts.
+- **Smart Advertising**: Relevant, non-intrusive ads tailored to resonate with every user's journey. The app could display targeted ads to users based on their interests and needs. For example, a user who is trying
+to conceive could be shown ads for fertility products or services.
+- **Unwavering Data Security**: A fortress of privacy with state-of-the-art encryption and security measures. The app provides one time view of the images and along with anti-screenshot and anti-screen recording mechanism.
+- **Strategic Partnerships**: Collaborations that amplify our offerings and extend unmatched benefits to our users. Pankhuri project will be partnered with Netmeds for discounts in medicines and Dr. Lal PathLabs for any required medical checkups.
+
+![WhatsApp Image 2023-10-29 at 5 40 12 AM](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/2455e7fe-1c3f-4b72-a3b2-a8b4fae47789)
+![WhatsApp Image 2023-10-29 at 5 40 16 AM](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/6ef885e1-486c-4372-84b2-4ce9cb4dc9d4)
+
+## 🍃 Alignment with Government
+- **Appointment Reminders**: Timely reminders for healthcare appointments, including JSSK antenatal and postnatal visits.
+- **Educational Content**: Insights about government schemes, including information about RKSK adolescent health services.
+- **Healthcare Access**: Collaborations with government health clinics for accessible healthcare services.
+- **Community Health Worker Training**: Empowering community health workers with Pankhuri app training to promote women's health effectively.
+- **Collaboration with Abha(Ayushman Bharat Health Account)**: Your one-stop shop for all things women's health, now with Abha integration for seamless access to previous medical records. This initiative is from government end i.e. Ayushman Bharat Digital Mission.
+![Do-You-Know-The-Benefits-of-ABHA-ID](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/adb2ced6-003d-4b28-858a-440e3c6c7ec7)
+
 
 ## 💪 Our Dynamic Team
 - **[Priyanshu Kumar Saw]**
