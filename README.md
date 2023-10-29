@@ -8,7 +8,7 @@
 # Pankhuri: Your one-stop partner for women's health
 
 Embark on a transformative journey with Pankhuri, a platform meticulously crafted to address the intricate nuances of women's health. By harnessing the power of cutting-edge AI, we're redefining the way women connect, learn, and take charge of their well-being.
-![pregnant-heartbeat](https://github.com/ShivamGupta92/Pankhuri/assets/101616959/3843bec3-0135-48d4-a0f6-64ac40fad4f2)
+
 
 
 <p align="center">
